@@ -2,7 +2,7 @@
 
 * Студент: [Мария Цалко](https://up.htmlacademy.ru/htmlcss/39/user/2399607).
 * Наставник: `Неизвестно`.
-* Проект [Седона](https://mariatsalko04.github.io/2399607-sedona-39/).
+* Проект [Мой проект Седона](https://mariatsalko04.github.io/2399607-sedona-39/).
 
 ---
 
